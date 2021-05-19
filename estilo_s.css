@@ -1,8 +1,5 @@
 .container{
-	background-color: 	#EE82EE;
-	box-shadow: 2px 3px 4px 0px black;
-	font-size: 18px;
-	text-align: justify;
+	
 }
 .Servicios-{
 font-size: 10px;
@@ -11,6 +8,13 @@ body{
 	background-image: url(images/inicio_2.jpg);
 
 
+}
+#ns{
+
+	background-color: 	#EE82EE;
+	box-shadow: 2px 3px 4px 0px black;
+	font-size: 18px;
+	text-align: justify;
 }
 h2{
 	color: black;
